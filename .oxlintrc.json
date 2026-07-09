@@ -10,6 +10,7 @@
   "rules": {
     "react/rules-of-hooks": "error",
     "react/only-export-components": ["warn", { "allowConstantExport": true }],
-    "react-hooks-js/set-state-in-render": "error"
+    "react-hooks-js/set-state-in-render": "error",
+    "oxc/no-accumulating-spread": "error"
   }
 }
